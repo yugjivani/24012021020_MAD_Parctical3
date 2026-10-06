@@ -544,7 +544,7 @@ The application demonstrates how Android applications can communicate with other
 
 ## 👨‍💻 Author
 
-**Krish Sakariya**
+**Yug Jivani**
 
 **Course:** B.Tech Information Technology
 **Subject:** Mobile Application Development (MAD)
